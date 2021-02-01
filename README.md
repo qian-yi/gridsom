@@ -1,4 +1,3 @@
-##vercel： https://gridsom-m4a468xsq.vercel.app/
 
 # Default starter for Gridsome
 
