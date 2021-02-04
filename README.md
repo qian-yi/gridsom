@@ -1,3 +1,6 @@
+##部署地址：gridsom.vercel.app
+## Strpai: http://8.210.23.245:1337/
+
 
 # Default starter for Gridsome
 
